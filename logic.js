@@ -27,9 +27,9 @@ if (compChoice === userChoice) {
              console.log("You win. Paper beats rock.");
          } else {
 if(compChoice)
-         }
+         
 
-    }
+
 
 // console.log("You win. Paper beats rock.")
 // }else {console.log("You lose. Rock beats scissors.")
