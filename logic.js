@@ -16,16 +16,17 @@ function playGame(userChoice) {
     const compChoice = options["rock", "paper", "scissors"];
 
     // Now log the computer's choice to the console.
-    console.log("The computer chose " + compChoice  + ".");
+
 
 if (compChoice === userChoice) {
     console.log("You tied")
 }else{
      if (compChoice == "rock") {
+         console.log( "the computer chose rock")}
          if (userChoice == "paper") {
              console.log("You win. Paper beats rock.");
          } else {
-
+if(compChoice)
          }
 
     }
